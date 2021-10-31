@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">Weather</string>
+    <string name="app_name">鑫哥天气</string>
+    <string name="city">定位中..</string>
+    <string name="airMass">空气质量</string>
+    <string name="airMassEn">AQI (CN)</string>
+    <string name="airMassDetail">空气质量指数（AIR QUALITY INDEX，简称AQI）是定量描述空气质量状况的指数，分为五级，相对应空气质量的六个类别，其数值越大说明空气污染状况越严重，对人体健康的危害也就越大。参与空气质量评价的主要污染物为细颗粒物（PM2.5）、可吸入颗粒物（PM10）、二氧化硫（SO2）、二氧化氮（NO2）、臭氧（O3）、一氧化碳（CO）等六项。</string>
+    <string name="feelsLike">体感温度</string>
+    <string name="altimeter">气压</string>
+    <string name="barometerTrend">气压趋势</string>
+    <string name="humidity">相对湿度</string>
+    <string name="dewPoint">露点温度</string>
+    <string name="visibility">能见度</string>
+    <string name="windSpeed">风速</string>
+    <string name="windDirCompass">风向标</string>
+    <string name="windDirDegrees">风向角度</string>
+    <string name="uvIndex">紫外线等级</string>
+    <string name="uvDescription">紫外线等级描述</string>
 </resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/address_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/kevin"
+        android:layout_width="match_parent"
+        android:layout_height="55sp"
+        android:background="@drawable/rm_yin"
+        android:orientation="horizontal">
+
+    </LinearLayout>
+
+</LinearLayout>
